@@ -57,4 +57,4 @@ Score | Expectations
 
 Submit your project by forking the ds_46_project repository (https://git.generalassemb.ly/jacktwhittle/ds_46_projects) to a new remote repo, creating a local repo on your machine, adding your solutions to the folder with your name, and submitting a pull request back to the relevant repo.  *Hint:* the 'UPDATED' slides from the GitHub session on Monday 23rd June in the classroom Slack channel will show you how to do this.
 
-**Note:** this is a different repo to the main course (as we don't want to merge back your additions to notebooks when we merge in your projects)s
+**Note:** this is a different repo to the main course (as we don't want to merge back your additions to notebooks when we merge in your projects.
